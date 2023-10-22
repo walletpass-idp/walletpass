@@ -1,0 +1,23 @@
+{
+    "name": "Pay with WalletPass",
+    "short_name": "WalletPass",
+    "icons": [{
+        "src": "logo.png",
+        "sizes": "48x48",
+        "type": "image/png"
+    }],
+    "serviceworker": {
+      "src": "sw-walletpass.js",
+      "use_cache": false
+    },
+    "prefer_related_applications": true,
+    "related_applications": [{
+        "platform": "play",
+        "id": "app.web.pwa_starter_bb094.twa",
+        "min_version": "2",
+        "fingerprints": [{
+            "type": "sha256_cert",
+            "value": "EA:A3:B9:D3:51:A5:6F:3A:88:4F:AB:F4:9B:0B:71:CB:42:F6:3C:E3:85:56:05:54:72:F0:1A:B9:D4:CD:67:3F"
+        }]
+    }]
+  }

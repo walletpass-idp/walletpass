@@ -1,0 +1,1 @@
+{"accounts_endpoint":"/auth/accounts","client_metadata_endpoint":"/auth/metadata","id_assertion_endpoint":"/auth/idtokens","revocation_endpoint":"/auth/revoke","signin_url":"/","branding":{"background_color":"#6200ee","color":"#ffffff","icons":[{"url":"https://index-6551.s3.us-west-1.amazonaws.com/user.png","size":256}]}}

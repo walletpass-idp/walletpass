@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "username": "dessmo@example.com",
+            "id": "cGasNnX04yEOxIfgKmvSeEGM1aNUPZlbv7U2Zcg_h4Q",
+            "given_name": "",
+            "family_name": "",
+            "picture": "https://www.gravatar.com/avatar/c439bbcee910e317de91079fbfc855f4",
+            "approved_clients": [],
+            "credentials": []
+          }
+        ]
+      }
